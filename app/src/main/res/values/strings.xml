@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gobierno Movil</string>
+    <!-- URL's -->
+    <string name="url">http://www.devtequila.com/mtequila/control/</string>
+</resources>
